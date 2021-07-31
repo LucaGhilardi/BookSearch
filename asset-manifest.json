@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/LucaGhilardi/booksearch/static/css/main.9099d23b.chunk.css",
-    "main.js": "/LucaGhilardi/booksearch/static/js/main.6e4a4231.chunk.js",
-    "main.js.map": "/LucaGhilardi/booksearch/static/js/main.6e4a4231.chunk.js.map",
-    "runtime-main.js": "/LucaGhilardi/booksearch/static/js/runtime-main.1a9ac424.js",
-    "runtime-main.js.map": "/LucaGhilardi/booksearch/static/js/runtime-main.1a9ac424.js.map",
-    "static/js/2.8e3b1626.chunk.js": "/LucaGhilardi/booksearch/static/js/2.8e3b1626.chunk.js",
-    "static/js/2.8e3b1626.chunk.js.map": "/LucaGhilardi/booksearch/static/js/2.8e3b1626.chunk.js.map",
-    "index.html": "/LucaGhilardi/booksearch/index.html",
-    "static/css/main.9099d23b.chunk.css.map": "/LucaGhilardi/booksearch/static/css/main.9099d23b.chunk.css.map",
-    "static/js/2.8e3b1626.chunk.js.LICENSE.txt": "/LucaGhilardi/booksearch/static/js/2.8e3b1626.chunk.js.LICENSE.txt"
+    "main.css": "/LucaGhilardi.github.io/booksearch/static/css/main.9099d23b.chunk.css",
+    "main.js": "/LucaGhilardi.github.io/booksearch/static/js/main.6e4a4231.chunk.js",
+    "main.js.map": "/LucaGhilardi.github.io/booksearch/static/js/main.6e4a4231.chunk.js.map",
+    "runtime-main.js": "/LucaGhilardi.github.io/booksearch/static/js/runtime-main.dc6c5a38.js",
+    "runtime-main.js.map": "/LucaGhilardi.github.io/booksearch/static/js/runtime-main.dc6c5a38.js.map",
+    "static/js/2.8e3b1626.chunk.js": "/LucaGhilardi.github.io/booksearch/static/js/2.8e3b1626.chunk.js",
+    "static/js/2.8e3b1626.chunk.js.map": "/LucaGhilardi.github.io/booksearch/static/js/2.8e3b1626.chunk.js.map",
+    "index.html": "/LucaGhilardi.github.io/booksearch/index.html",
+    "static/css/main.9099d23b.chunk.css.map": "/LucaGhilardi.github.io/booksearch/static/css/main.9099d23b.chunk.css.map",
+    "static/js/2.8e3b1626.chunk.js.LICENSE.txt": "/LucaGhilardi.github.io/booksearch/static/js/2.8e3b1626.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1a9ac424.js",
+    "static/js/runtime-main.dc6c5a38.js",
     "static/js/2.8e3b1626.chunk.js",
     "static/css/main.9099d23b.chunk.css",
     "static/js/main.6e4a4231.chunk.js"
